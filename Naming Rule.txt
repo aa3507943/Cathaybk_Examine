@@ -1,0 +1,25 @@
+property in class: lower case for the first word, and uppercase for each head of vocabulary except the first one. 
+Ex.	
+	@property
+	def automation_test(self):
+
+method in class: Uppercase for each head of vocabulary, and use underline to separate each vocabulary.
+Ex. 
+	def Execute_Case1(self):
+
+class: Uppercase for each head of vocabulary, but do not use underline to separate each vocabular.
+Ex.
+	class CathaybkAutoTest:
+
+The variable in method or main parts: lowercase for each vocabulary, and use underline to separate each vocabulary
+Ex.
+	variable_one = 0
+
+The global variable: Uppercase for all characters
+Ex. 
+	PI = 3.14159
+
+functions (not in class): the same as property in class
+Ex.	
+	def automation_test_driver(self):
+
