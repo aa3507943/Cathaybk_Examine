@@ -1,11 +1,12 @@
 from abc import ABC, abstractproperty
-from Library.Web_Page.web_control import WebControl
+from Automation_Test.Library.Web_Page.web_control import WebControl
 
 class IHomePage(ABC):
-    def __init__(self, driver: WebControl):
-        self.driver = driver
+    def __init__(self, driver: WebControl): self.driver = driver
     @abstractproperty
     def signin_btn(self): "登入鍵"
+    @abstractproperty
+    def signout_btn(self): "登出鍵"
     @abstractproperty
     def menu_burger_icon(self): "左上角選單鍵"
     @abstractproperty
@@ -29,12 +30,9 @@ class IHomePage(ABC):
     """多寫的僅以示例，其他暫且用不到，但可在此擴充"""
 
 class ISideMenu(ABC):
-    def __init__(self, driver: WebControl):
-        self.driver = driver
+    def __init__(self, driver: WebControl): self.driver = driver
     @abstractproperty
     def close_btn(self): "關閉選單鍵"
-    @abstractproperty
-    def signin_btn(self): "登入鍵"
     @abstractproperty
     def search_bar(self): "搜尋欄位"
     @abstractproperty
@@ -61,13 +59,10 @@ class ISideMenu(ABC):
     def overseas_base_btn(self): "海外據點鍵"
     """多寫的僅以示例，其他暫且用不到，但可在此擴充"""
 
-class ProductIntroduce(ABC):
-    def __init__(self, driver: WebControl):
-        self.driver = driver
+class IProductIntroduce(ABC):
+    def __init__(self, driver: WebControl): self.driver = driver
     @abstractproperty
     def credit_card_btn(self): "信用卡鍵"
-    @abstractproperty
-    def credit_card_list(self): "信用卡列表"
     @abstractproperty
     def card_intro_btn(self): "卡片介紹鍵"
     @abstractproperty
@@ -78,15 +73,16 @@ class ProductIntroduce(ABC):
     def loan_btn(self): "貸款鍵"
     """多寫的僅以示例，其他暫且用不到，但可在此擴充"""
 
-class CardIntroduce(ABC):
-    def __init__(self, driver: WebControl):
-        self.driver = driver
-    @abstractproperty
-    def stop_issue_card_list(self): "停發卡列表"
+class ICardIntroduce(ABC):
+    def __init__(self, driver: WebControl): self.driver = driver
     @abstractproperty
     def stop_issue_card_block(self): "停發卡區塊"
+    @abstractproperty
+    def turn_card_btn(self): "切換卡片按鈕"
     """其他暫且用不到，但可在此擴充"""
 
 class IElement:
     home_page: IHomePage
     side_menu: ISideMenu
+    product_introduce: IProductIntroduce
+    card_introduce: ICardIntroduce
