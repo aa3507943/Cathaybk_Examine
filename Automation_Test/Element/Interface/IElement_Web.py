@@ -1,7 +1,7 @@
 from abc import ABC, abstractproperty
 from Library.Web_Page.web_control import WebControl
 
-class IElement_HomePage(ABC):
+class IHomePage(ABC):
     def __init__(self, driver: WebControl):
         self.driver = driver
     @abstractproperty
@@ -26,10 +26,9 @@ class IElement_HomePage(ABC):
     def activities_area_btn(self): "活動區域鍵"
     @abstractproperty
     def AI_customer_service_btn(self): "智能客服鍵"
+    """多寫的僅以示例，其他暫且用不到，但可在此擴充"""
 
-    """其他的暫且用不到，但可在此擴充"""
-
-class IElement_Menu(ABC):
+class ISideMenu(ABC):
     def __init__(self, driver: WebControl):
         self.driver = driver
     @abstractproperty
@@ -60,5 +59,34 @@ class IElement_Menu(ABC):
     def private_bank_btn(self): "私人銀行鍵"
     @abstractproperty
     def overseas_base_btn(self): "海外據點鍵"
+    """多寫的僅以示例，其他暫且用不到，但可在此擴充"""
 
-    """企業金融、私人銀行、海外據點列表中的功能暫且用不到，但可在此擴充"""
+class ProductIntroduce(ABC):
+    def __init__(self, driver: WebControl):
+        self.driver = driver
+    @abstractproperty
+    def credit_card_btn(self): "信用卡鍵"
+    @abstractproperty
+    def credit_card_list(self): "信用卡列表"
+    @abstractproperty
+    def card_intro_btn(self): "卡片介紹鍵"
+    @abstractproperty
+    def credit_card_offers_btn(self): "刷卡優惠鍵"
+    @abstractproperty
+    def bank_deposit_btn(self): "存款鍵"
+    @abstractproperty
+    def loan_btn(self): "貸款鍵"
+    """多寫的僅以示例，其他暫且用不到，但可在此擴充"""
+
+class CardIntroduce(ABC):
+    def __init__(self, driver: WebControl):
+        self.driver = driver
+    @abstractproperty
+    def stop_issue_card_list(self): "停發卡列表"
+    @abstractproperty
+    def stop_issue_card_block(self): "停發卡區塊"
+    """其他暫且用不到，但可在此擴充"""
+
+class IElement:
+    home_page: IHomePage
+    side_menu: ISideMenu
