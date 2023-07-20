@@ -1,5 +1,5 @@
 from abc import ABC, abstractproperty
-from Automation_Test.Library.Web_Page.web_control import WebControl
+from Library.Web_Page.web_control import WebControl
 
 class IHomePage(ABC):
     def __init__(self, driver: WebControl): self.driver = driver
@@ -63,6 +63,8 @@ class IProductIntroduce(ABC):
     def __init__(self, driver: WebControl): self.driver = driver
     @abstractproperty
     def credit_card_btn(self): "信用卡鍵"
+    @abstractproperty
+    def credit_card_option_list(self): "信用卡項目列表"
     @abstractproperty
     def card_intro_btn(self): "卡片介紹鍵"
     @abstractproperty

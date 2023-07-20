@@ -1,0 +1,756 @@
+
+20230720 11:58:50 INFO: 將視窗大小設置為600x800
+NoneType: None
+
+20230720 11:58:50 INFO: 進入 https://www.cathaybk.com.tw/cathaybk/ 網頁
+NoneType: None
+
+20230720 11:58:59 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case1.png
+NoneType: None
+
+20230720 11:59:00 INFO: 將視窗大小設置為600x800
+NoneType: None
+
+20230720 11:59:00 INFO: 進入 https://www.cathaybk.com.tw/cathaybk/ 網頁
+NoneType: None
+
+20230720 11:59:01 INFO: 將視窗大小設置為600x800
+NoneType: None
+
+20230720 11:59:01 INFO: 進入 https://www.cathaybk.com.tw/cathaybk/ 網頁
+NoneType: None
+
+20230720 11:59:02 INFO: 取元素 //a[@class='cubre-a-burger']
+NoneType: None
+
+20230720 11:59:02 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="784039585e272294fa605d981a8ed3d8", element="447E63E1428D1E697F79AE20F2C85343_element_78")>
+NoneType: None
+
+20230720 11:59:02 INFO: 取元素 //div[@class='cubre-o-menu']//div[@class='cubre-o-menu__item'] 列表
+NoneType: None
+
+20230720 11:59:02 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="784039585e272294fa605d981a8ed3d8", element="447E63E1428D1E697F79AE20F2C85343_element_91")>
+NoneType: None
+
+20230720 11:59:02 INFO: 取元素 //div[@class='cubre-o-menu__item is-L1open']//div[@class='cubre-o-menu__content']//div[@class='cubre-o-menuLinkList__btn'] 列表
+NoneType: None
+
+20230720 11:59:03 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="784039585e272294fa605d981a8ed3d8", element="447E63E1428D1E697F79AE20F2C85343_element_103")>
+NoneType: None
+
+20230720 11:59:06 INFO: 取元素 //div[@class='cubre-o-menuLinkList__item is-L2open']//div[@class='cubre-o-menuLinkList__content']//a 列表
+NoneType: None
+
+20230720 11:59:06 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case2.png
+NoneType: None
+
+20230720 11:59:06 INFO: 將視窗大小設置為600x800
+NoneType: None
+
+20230720 11:59:06 INFO: 進入 https://www.cathaybk.com.tw/cathaybk/ 網頁
+NoneType: None
+
+20230720 11:59:07 INFO: 將視窗大小設置為600x800
+NoneType: None
+
+20230720 11:59:07 INFO: 進入 https://www.cathaybk.com.tw/cathaybk/ 網頁
+NoneType: None
+
+20230720 11:59:09 INFO: 取元素 //a[@class='cubre-a-burger']
+NoneType: None
+
+20230720 11:59:09 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="784039585e272294fa605d981a8ed3d8", element="57F4384C064FF228072CA1ED1A567A6F_element_146")>
+NoneType: None
+
+20230720 11:59:09 INFO: 取元素 //div[@class='cubre-o-menu']//div[@class='cubre-o-menu__item'] 列表
+NoneType: None
+
+20230720 11:59:09 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="784039585e272294fa605d981a8ed3d8", element="57F4384C064FF228072CA1ED1A567A6F_element_157")>
+NoneType: None
+
+20230720 11:59:09 INFO: 取元素 //div[@class='cubre-o-menu__item is-L1open']//div[@class='cubre-o-menu__content']//div[@class='cubre-o-menuLinkList__btn'] 列表
+NoneType: None
+
+20230720 11:59:09 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="784039585e272294fa605d981a8ed3d8", element="57F4384C064FF228072CA1ED1A567A6F_element_161")>
+NoneType: None
+
+20230720 11:59:12 INFO: 取元素 //div[@class='cubre-o-menuLinkList__item is-L2open']//div[@class='cubre-o-menuLinkList__content']//a 列表
+NoneType: None
+
+20230720 11:59:12 INFO: 取元素 //div[@class='cubre-o-menuLinkList__content']//a[@href='/cathaybk/personal/product/credit-card/cards']
+NoneType: None
+
+20230720 11:59:12 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="784039585e272294fa605d981a8ed3d8", element="57F4384C064FF228072CA1ED1A567A6F_element_176")>
+NoneType: None
+
+20230720 11:59:15 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 11:59:15 INFO: 取元素 //section[@data-anchor-block='blockname06']
+NoneType: None
+
+20230720 11:59:16 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-1.png
+NoneType: None
+
+20230720 11:59:16 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 11:59:16 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="784039585e272294fa605d981a8ed3d8", element="DD0B33278C44CF15C5AA78C22B4248B7_element_228")>
+NoneType: None
+
+20230720 11:59:18 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-2.png
+NoneType: None
+
+20230720 11:59:18 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 11:59:18 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="784039585e272294fa605d981a8ed3d8", element="DD0B33278C44CF15C5AA78C22B4248B7_element_229")>
+NoneType: None
+
+20230720 11:59:20 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-3.png
+NoneType: None
+
+20230720 11:59:20 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 11:59:20 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="784039585e272294fa605d981a8ed3d8", element="DD0B33278C44CF15C5AA78C22B4248B7_element_230")>
+NoneType: None
+
+20230720 11:59:22 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-4.png
+NoneType: None
+
+20230720 11:59:23 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 11:59:23 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="784039585e272294fa605d981a8ed3d8", element="DD0B33278C44CF15C5AA78C22B4248B7_element_231")>
+NoneType: None
+
+20230720 11:59:25 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-5.png
+NoneType: None
+
+20230720 11:59:25 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 11:59:25 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="784039585e272294fa605d981a8ed3d8", element="DD0B33278C44CF15C5AA78C22B4248B7_element_232")>
+NoneType: None
+
+20230720 11:59:27 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-6.png
+NoneType: None
+
+20230720 11:59:27 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 11:59:27 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="784039585e272294fa605d981a8ed3d8", element="DD0B33278C44CF15C5AA78C22B4248B7_element_233")>
+NoneType: None
+
+20230720 11:59:29 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-7.png
+NoneType: None
+
+20230720 11:59:29 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 11:59:29 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="784039585e272294fa605d981a8ed3d8", element="DD0B33278C44CF15C5AA78C22B4248B7_element_234")>
+NoneType: None
+
+20230720 11:59:31 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-8.png
+NoneType: None
+
+20230720 11:59:31 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 11:59:31 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="784039585e272294fa605d981a8ed3d8", element="DD0B33278C44CF15C5AA78C22B4248B7_element_235")>
+NoneType: None
+
+20230720 11:59:33 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-9.png
+NoneType: None
+
+20230720 11:59:33 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 11:59:33 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="784039585e272294fa605d981a8ed3d8", element="DD0B33278C44CF15C5AA78C22B4248B7_element_236")>
+NoneType: None
+
+20230720 11:59:35 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-10.png
+NoneType: None
+
+20230720 11:59:35 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 11:59:35 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="784039585e272294fa605d981a8ed3d8", element="DD0B33278C44CF15C5AA78C22B4248B7_element_237")>
+NoneType: None
+
+20230720 11:59:37 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-11.png
+NoneType: None
+
+20230720 11:59:37 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 11:59:37 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="784039585e272294fa605d981a8ed3d8", element="DD0B33278C44CF15C5AA78C22B4248B7_element_238")>
+NoneType: None
+
+20230720 11:59:40 INFO: 關閉瀏覽器
+NoneType: None
+
+20230720 12:00:15 INFO: 將視窗大小設置為600x800
+NoneType: None
+
+20230720 12:00:16 INFO: 進入 https://www.cathaybk.com.tw/cathaybk/ 網頁
+NoneType: None
+
+20230720 12:00:20 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case1.png
+NoneType: None
+
+20230720 12:00:20 INFO: 將視窗大小設置為600x800
+NoneType: None
+
+20230720 12:00:20 INFO: 進入 https://www.cathaybk.com.tw/cathaybk/ 網頁
+NoneType: None
+
+20230720 12:00:22 INFO: 將視窗大小設置為600x800
+NoneType: None
+
+20230720 12:00:22 INFO: 進入 https://www.cathaybk.com.tw/cathaybk/ 網頁
+NoneType: None
+
+20230720 12:00:24 INFO: 取元素 //a[@class='cubre-a-burger']
+NoneType: None
+
+20230720 12:00:24 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="3120ac23b9541a6aaa4aa3b01fd7b449", element="612D974EBE673A3EA415D030152230C6_element_79")>
+NoneType: None
+
+20230720 12:00:24 INFO: 取元素 //div[@class='cubre-o-menu']//div[@class='cubre-o-menu__item'] 列表
+NoneType: None
+
+20230720 12:00:24 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="3120ac23b9541a6aaa4aa3b01fd7b449", element="612D974EBE673A3EA415D030152230C6_element_92")>
+NoneType: None
+
+20230720 12:00:25 INFO: 取元素 //div[@class='cubre-o-menu__item is-L1open']//div[@class='cubre-o-menu__content']//div[@class='cubre-o-menuLinkList__btn'] 列表
+NoneType: None
+
+20230720 12:00:25 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="3120ac23b9541a6aaa4aa3b01fd7b449", element="612D974EBE673A3EA415D030152230C6_element_100")>
+NoneType: None
+
+20230720 12:00:28 INFO: 取元素 //div[@class='cubre-o-menuLinkList__item is-L2open']//div[@class='cubre-o-menuLinkList__content']//a 列表
+NoneType: None
+
+20230720 12:00:28 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case2.png
+NoneType: None
+
+20230720 12:00:28 INFO: 將視窗大小設置為600x800
+NoneType: None
+
+20230720 12:00:28 INFO: 進入 https://www.cathaybk.com.tw/cathaybk/ 網頁
+NoneType: None
+
+20230720 12:00:31 INFO: 將視窗大小設置為600x800
+NoneType: None
+
+20230720 12:00:31 INFO: 進入 https://www.cathaybk.com.tw/cathaybk/ 網頁
+NoneType: None
+
+20230720 12:00:35 INFO: 取元素 //a[@class='cubre-a-burger']
+NoneType: None
+
+20230720 12:00:35 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="3120ac23b9541a6aaa4aa3b01fd7b449", element="4D3381ADEB35FF94597BD326D4687C6B_element_152")>
+NoneType: None
+
+20230720 12:00:35 INFO: 取元素 //div[@class='cubre-o-menu']//div[@class='cubre-o-menu__item'] 列表
+NoneType: None
+
+20230720 12:00:35 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="3120ac23b9541a6aaa4aa3b01fd7b449", element="4D3381ADEB35FF94597BD326D4687C6B_element_165")>
+NoneType: None
+
+20230720 12:00:35 INFO: 取元素 //div[@class='cubre-o-menu__item is-L1open']//div[@class='cubre-o-menu__content']//div[@class='cubre-o-menuLinkList__btn'] 列表
+NoneType: None
+
+20230720 12:00:35 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="3120ac23b9541a6aaa4aa3b01fd7b449", element="4D3381ADEB35FF94597BD326D4687C6B_element_175")>
+NoneType: None
+
+20230720 12:00:38 INFO: 取元素 //div[@class='cubre-o-menuLinkList__item is-L2open']//div[@class='cubre-o-menuLinkList__content']//a 列表
+NoneType: None
+
+20230720 12:00:38 INFO: 取元素 //div[@class='cubre-o-menuLinkList__content']//a[@href='/cathaybk/personal/product/credit-card/cards']
+NoneType: None
+
+20230720 12:00:38 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="3120ac23b9541a6aaa4aa3b01fd7b449", element="4D3381ADEB35FF94597BD326D4687C6B_element_183")>
+NoneType: None
+
+20230720 12:00:44 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:00:44 INFO: 取元素 //section[@data-anchor-block='blockname06']
+NoneType: None
+
+20230720 12:00:45 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-1.png
+NoneType: None
+
+20230720 12:00:45 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:00:45 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="3120ac23b9541a6aaa4aa3b01fd7b449", element="F46947ADA547988F7CE537A8C75989F9_element_235")>
+NoneType: None
+
+20230720 12:00:47 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-2.png
+NoneType: None
+
+20230720 12:00:47 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:00:47 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="3120ac23b9541a6aaa4aa3b01fd7b449", element="F46947ADA547988F7CE537A8C75989F9_element_236")>
+NoneType: None
+
+20230720 12:00:49 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-3.png
+NoneType: None
+
+20230720 12:00:49 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:00:49 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="3120ac23b9541a6aaa4aa3b01fd7b449", element="F46947ADA547988F7CE537A8C75989F9_element_237")>
+NoneType: None
+
+20230720 12:00:51 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-4.png
+NoneType: None
+
+20230720 12:00:51 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:00:51 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="3120ac23b9541a6aaa4aa3b01fd7b449", element="F46947ADA547988F7CE537A8C75989F9_element_238")>
+NoneType: None
+
+20230720 12:00:53 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-5.png
+NoneType: None
+
+20230720 12:00:53 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:00:53 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="3120ac23b9541a6aaa4aa3b01fd7b449", element="F46947ADA547988F7CE537A8C75989F9_element_239")>
+NoneType: None
+
+20230720 12:00:56 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-6.png
+NoneType: None
+
+20230720 12:00:56 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:00:56 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="3120ac23b9541a6aaa4aa3b01fd7b449", element="F46947ADA547988F7CE537A8C75989F9_element_240")>
+NoneType: None
+
+20230720 12:00:58 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-7.png
+NoneType: None
+
+20230720 12:00:58 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:00:58 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="3120ac23b9541a6aaa4aa3b01fd7b449", element="F46947ADA547988F7CE537A8C75989F9_element_241")>
+NoneType: None
+
+20230720 12:01:00 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-8.png
+NoneType: None
+
+20230720 12:01:00 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:01:00 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="3120ac23b9541a6aaa4aa3b01fd7b449", element="F46947ADA547988F7CE537A8C75989F9_element_242")>
+NoneType: None
+
+20230720 12:01:02 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-9.png
+NoneType: None
+
+20230720 12:01:02 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:01:02 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="3120ac23b9541a6aaa4aa3b01fd7b449", element="F46947ADA547988F7CE537A8C75989F9_element_243")>
+NoneType: None
+
+20230720 12:01:04 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-10.png
+NoneType: None
+
+20230720 12:01:04 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:01:04 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="3120ac23b9541a6aaa4aa3b01fd7b449", element="F46947ADA547988F7CE537A8C75989F9_element_244")>
+NoneType: None
+
+20230720 12:01:06 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-11.png
+NoneType: None
+
+20230720 12:01:06 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:01:06 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="3120ac23b9541a6aaa4aa3b01fd7b449", element="F46947ADA547988F7CE537A8C75989F9_element_245")>
+NoneType: None
+
+20230720 12:01:08 INFO: 關閉瀏覽器
+NoneType: None
+
+20230720 12:03:31 INFO: 將視窗大小設置為600x800
+NoneType: None
+
+20230720 12:03:32 INFO: 進入 https://www.cathaybk.com.tw/cathaybk/ 網頁
+NoneType: None
+
+20230720 12:03:35 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case1.png
+NoneType: None
+
+20230720 12:03:35 INFO: 將視窗大小設置為600x800
+NoneType: None
+
+20230720 12:03:35 INFO: 進入 https://www.cathaybk.com.tw/cathaybk/ 網頁
+NoneType: None
+
+20230720 12:03:37 INFO: 將視窗大小設置為600x800
+NoneType: None
+
+20230720 12:03:37 INFO: 進入 https://www.cathaybk.com.tw/cathaybk/ 網頁
+NoneType: None
+
+20230720 12:03:39 INFO: 取元素 //a[@class='cubre-a-burger']
+NoneType: None
+
+20230720 12:03:39 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="03c2b498a7a629f63cd9cb89e84da444", element="B0377158941167A128C02773E50C2F94_element_78")>
+NoneType: None
+
+20230720 12:03:39 INFO: 取元素 //div[@class='cubre-o-menu']//div[@class='cubre-o-menu__item'] 列表
+NoneType: None
+
+20230720 12:03:39 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="03c2b498a7a629f63cd9cb89e84da444", element="B0377158941167A128C02773E50C2F94_element_92")>
+NoneType: None
+
+20230720 12:03:40 INFO: 取元素 //div[@class='cubre-o-menu__item is-L1open']//div[@class='cubre-o-menu__content']//div[@class='cubre-o-menuLinkList__btn'] 列表
+NoneType: None
+
+20230720 12:03:40 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="03c2b498a7a629f63cd9cb89e84da444", element="B0377158941167A128C02773E50C2F94_element_104")>
+NoneType: None
+
+20230720 12:03:43 INFO: 取元素 //div[@class='cubre-o-menuLinkList__item is-L2open']//div[@class='cubre-o-menuLinkList__content']//a 列表
+NoneType: None
+
+20230720 12:03:43 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case2.png
+NoneType: None
+
+20230720 12:03:43 INFO: 將視窗大小設置為600x800
+NoneType: None
+
+20230720 12:03:43 INFO: 進入 https://www.cathaybk.com.tw/cathaybk/ 網頁
+NoneType: None
+
+20230720 12:03:44 INFO: 將視窗大小設置為600x800
+NoneType: None
+
+20230720 12:03:44 INFO: 進入 https://www.cathaybk.com.tw/cathaybk/ 網頁
+NoneType: None
+
+20230720 12:03:45 INFO: 取元素 //a[@class='cubre-a-burger']
+NoneType: None
+
+20230720 12:03:45 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="03c2b498a7a629f63cd9cb89e84da444", element="CD2EE55DF537A2EAC7E812228A63CAD3_element_145")>
+NoneType: None
+
+20230720 12:03:45 INFO: 取元素 //div[@class='cubre-o-menu']//div[@class='cubre-o-menu__item'] 列表
+NoneType: None
+
+20230720 12:03:45 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="03c2b498a7a629f63cd9cb89e84da444", element="CD2EE55DF537A2EAC7E812228A63CAD3_element_155")>
+NoneType: None
+
+20230720 12:03:45 INFO: 取元素 //div[@class='cubre-o-menu__item is-L1open']//div[@class='cubre-o-menu__content']//div[@class='cubre-o-menuLinkList__btn'] 列表
+NoneType: None
+
+20230720 12:03:45 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="03c2b498a7a629f63cd9cb89e84da444", element="CD2EE55DF537A2EAC7E812228A63CAD3_element_159")>
+NoneType: None
+
+20230720 12:03:48 INFO: 取元素 //div[@class='cubre-o-menuLinkList__item is-L2open']//div[@class='cubre-o-menuLinkList__content']//a 列表
+NoneType: None
+
+20230720 12:03:48 INFO: 取元素 //div[@class='cubre-o-menuLinkList__content']//a[@href='/cathaybk/personal/product/credit-card/cards']
+NoneType: None
+
+20230720 12:03:48 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="03c2b498a7a629f63cd9cb89e84da444", element="CD2EE55DF537A2EAC7E812228A63CAD3_element_176")>
+NoneType: None
+
+20230720 12:03:50 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:03:50 INFO: 取元素 //section[@data-anchor-block='blockname06']
+NoneType: None
+
+20230720 12:03:51 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-1.png
+NoneType: None
+
+20230720 12:03:51 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:03:51 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="03c2b498a7a629f63cd9cb89e84da444", element="64FE4ABFD4C71EFE916FED17909F4B7D_element_229")>
+NoneType: None
+
+20230720 12:03:53 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-2.png
+NoneType: None
+
+20230720 12:03:53 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:03:53 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="03c2b498a7a629f63cd9cb89e84da444", element="64FE4ABFD4C71EFE916FED17909F4B7D_element_230")>
+NoneType: None
+
+20230720 12:03:55 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-3.png
+NoneType: None
+
+20230720 12:03:55 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:03:55 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="03c2b498a7a629f63cd9cb89e84da444", element="64FE4ABFD4C71EFE916FED17909F4B7D_element_231")>
+NoneType: None
+
+20230720 12:03:57 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-4.png
+NoneType: None
+
+20230720 12:03:57 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:03:57 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="03c2b498a7a629f63cd9cb89e84da444", element="64FE4ABFD4C71EFE916FED17909F4B7D_element_232")>
+NoneType: None
+
+20230720 12:03:59 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-5.png
+NoneType: None
+
+20230720 12:04:00 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:04:00 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="03c2b498a7a629f63cd9cb89e84da444", element="64FE4ABFD4C71EFE916FED17909F4B7D_element_233")>
+NoneType: None
+
+20230720 12:04:02 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-6.png
+NoneType: None
+
+20230720 12:04:02 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:04:02 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="03c2b498a7a629f63cd9cb89e84da444", element="64FE4ABFD4C71EFE916FED17909F4B7D_element_234")>
+NoneType: None
+
+20230720 12:04:04 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-7.png
+NoneType: None
+
+20230720 12:04:04 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:04:04 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="03c2b498a7a629f63cd9cb89e84da444", element="64FE4ABFD4C71EFE916FED17909F4B7D_element_235")>
+NoneType: None
+
+20230720 12:04:06 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-8.png
+NoneType: None
+
+20230720 12:04:06 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:04:06 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="03c2b498a7a629f63cd9cb89e84da444", element="64FE4ABFD4C71EFE916FED17909F4B7D_element_236")>
+NoneType: None
+
+20230720 12:04:08 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-9.png
+NoneType: None
+
+20230720 12:04:08 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:04:08 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="03c2b498a7a629f63cd9cb89e84da444", element="64FE4ABFD4C71EFE916FED17909F4B7D_element_237")>
+NoneType: None
+
+20230720 12:04:10 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-10.png
+NoneType: None
+
+20230720 12:04:10 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:04:10 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="03c2b498a7a629f63cd9cb89e84da444", element="64FE4ABFD4C71EFE916FED17909F4B7D_element_238")>
+NoneType: None
+
+20230720 12:04:12 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-11.png
+NoneType: None
+
+20230720 12:04:12 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 12:04:12 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="03c2b498a7a629f63cd9cb89e84da444", element="64FE4ABFD4C71EFE916FED17909F4B7D_element_239")>
+NoneType: None
+
+20230720 12:04:14 INFO: 關閉瀏覽器
+NoneType: None
+
+20230720 13:34:28 INFO: 將視窗大小設置為600x800
+NoneType: None
+
+20230720 13:34:29 INFO: 進入 https://www.cathaybk.com.tw/cathaybk/ 網頁
+NoneType: None
+
+20230720 13:34:32 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case1.png
+NoneType: None
+
+20230720 13:34:32 INFO: 進入 https://www.cathaybk.com.tw/cathaybk/ 網頁
+NoneType: None
+
+20230720 13:34:34 INFO: 進入 https://www.cathaybk.com.tw/cathaybk/ 網頁
+NoneType: None
+
+20230720 13:34:34 INFO: 取元素 //a[@class='cubre-a-burger']
+NoneType: None
+
+20230720 13:34:35 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="8c038c72112e71c831d60393dd762aa0", element="F9C7B96273523526DDACA05B35BDB0A5_element_80")>
+NoneType: None
+
+20230720 13:34:35 INFO: 取元素 //div[@class='cubre-o-menu']//div[@class='cubre-o-menu__item'] 列表
+NoneType: None
+
+20230720 13:34:35 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="8c038c72112e71c831d60393dd762aa0", element="F9C7B96273523526DDACA05B35BDB0A5_element_93")>
+NoneType: None
+
+20230720 13:34:35 INFO: 取元素 //div[@class='cubre-o-menu__item is-L1open']//div[@class='cubre-o-menu__content']//div[@class='cubre-o-menuLinkList__btn'] 列表
+NoneType: None
+
+20230720 13:34:35 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="8c038c72112e71c831d60393dd762aa0", element="F9C7B96273523526DDACA05B35BDB0A5_element_104")>
+NoneType: None
+
+20230720 13:34:38 INFO: 取元素 //div[@class='cubre-o-menuLinkList__item is-L2open']//div[@class='cubre-o-menuLinkList__content']//a 列表
+NoneType: None
+
+20230720 13:34:38 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case2.png
+NoneType: None
+
+20230720 13:34:38 INFO: 進入 https://www.cathaybk.com.tw/cathaybk/ 網頁
+NoneType: None
+
+20230720 13:34:39 INFO: 進入 https://www.cathaybk.com.tw/cathaybk/ 網頁
+NoneType: None
+
+20230720 13:34:40 INFO: 取元素 //a[@class='cubre-a-burger']
+NoneType: None
+
+20230720 13:34:40 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="8c038c72112e71c831d60393dd762aa0", element="5596E92146F6B0E79A27C2CCD21CC2BB_element_147")>
+NoneType: None
+
+20230720 13:34:40 INFO: 取元素 //div[@class='cubre-o-menu']//div[@class='cubre-o-menu__item'] 列表
+NoneType: None
+
+20230720 13:34:40 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="8c038c72112e71c831d60393dd762aa0", element="5596E92146F6B0E79A27C2CCD21CC2BB_element_157")>
+NoneType: None
+
+20230720 13:34:41 INFO: 取元素 //div[@class='cubre-o-menu__item is-L1open']//div[@class='cubre-o-menu__content']//div[@class='cubre-o-menuLinkList__btn'] 列表
+NoneType: None
+
+20230720 13:34:41 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="8c038c72112e71c831d60393dd762aa0", element="5596E92146F6B0E79A27C2CCD21CC2BB_element_167")>
+NoneType: None
+
+20230720 13:34:44 INFO: 取元素 //div[@class='cubre-o-menuLinkList__item is-L2open']//div[@class='cubre-o-menuLinkList__content']//a 列表
+NoneType: None
+
+20230720 13:34:44 INFO: 取元素 //div[@class='cubre-o-menuLinkList__content']//a[@href='/cathaybk/personal/product/credit-card/cards']
+NoneType: None
+
+20230720 13:34:44 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="8c038c72112e71c831d60393dd762aa0", element="5596E92146F6B0E79A27C2CCD21CC2BB_element_178")>
+NoneType: None
+
+20230720 13:34:45 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 13:34:45 INFO: 取元素 //section[@data-anchor-block='blockname06']
+NoneType: None
+
+20230720 13:34:47 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-1.png
+NoneType: None
+
+20230720 13:34:47 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 13:34:47 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="8c038c72112e71c831d60393dd762aa0", element="14C5C4E56B55282CEC85F8C54B56080B_element_230")>
+NoneType: None
+
+20230720 13:34:49 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-2.png
+NoneType: None
+
+20230720 13:34:49 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 13:34:49 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="8c038c72112e71c831d60393dd762aa0", element="14C5C4E56B55282CEC85F8C54B56080B_element_231")>
+NoneType: None
+
+20230720 13:34:51 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-3.png
+NoneType: None
+
+20230720 13:34:51 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 13:34:51 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="8c038c72112e71c831d60393dd762aa0", element="14C5C4E56B55282CEC85F8C54B56080B_element_232")>
+NoneType: None
+
+20230720 13:34:53 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-4.png
+NoneType: None
+
+20230720 13:34:53 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 13:34:53 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="8c038c72112e71c831d60393dd762aa0", element="14C5C4E56B55282CEC85F8C54B56080B_element_233")>
+NoneType: None
+
+20230720 13:34:55 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-5.png
+NoneType: None
+
+20230720 13:34:55 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 13:34:55 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="8c038c72112e71c831d60393dd762aa0", element="14C5C4E56B55282CEC85F8C54B56080B_element_234")>
+NoneType: None
+
+20230720 13:34:57 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-6.png
+NoneType: None
+
+20230720 13:34:57 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 13:34:57 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="8c038c72112e71c831d60393dd762aa0", element="14C5C4E56B55282CEC85F8C54B56080B_element_235")>
+NoneType: None
+
+20230720 13:34:59 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-7.png
+NoneType: None
+
+20230720 13:34:59 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 13:34:59 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="8c038c72112e71c831d60393dd762aa0", element="14C5C4E56B55282CEC85F8C54B56080B_element_236")>
+NoneType: None
+
+20230720 13:35:01 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-8.png
+NoneType: None
+
+20230720 13:35:01 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 13:35:01 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="8c038c72112e71c831d60393dd762aa0", element="14C5C4E56B55282CEC85F8C54B56080B_element_237")>
+NoneType: None
+
+20230720 13:35:04 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-9.png
+NoneType: None
+
+20230720 13:35:04 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 13:35:04 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="8c038c72112e71c831d60393dd762aa0", element="14C5C4E56B55282CEC85F8C54B56080B_element_238")>
+NoneType: None
+
+20230720 13:35:06 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-10.png
+NoneType: None
+
+20230720 13:35:06 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 13:35:06 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="8c038c72112e71c831d60393dd762aa0", element="14C5C4E56B55282CEC85F8C54B56080B_element_239")>
+NoneType: None
+
+20230720 13:35:08 INFO: 進行截圖動作並將圖片存至./Automation_Test/Pictures/Case3-11.png
+NoneType: None
+
+20230720 13:35:08 INFO: 取元素 //section[@data-anchor-block='blockname06']//div[@class='cubre-o-slide__page swiper-pagination-clickable swiper-pagination-bullets']//span 列表
+NoneType: None
+
+20230720 13:35:08 INFO: 點擊元素 <selenium.webdriver.remote.webelement.WebElement (session="8c038c72112e71c831d60393dd762aa0", element="14C5C4E56B55282CEC85F8C54B56080B_element_240")>
+NoneType: None
+
+20230720 13:35:10 INFO: 關閉瀏覽器
+NoneType: None

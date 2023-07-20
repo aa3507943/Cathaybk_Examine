@@ -1,5 +1,5 @@
-from Automation_Test.Element.Interface.IElement_Web import *
-from Automation_Test.Library.Web_Page.web_control import WebControl
+from Element.Interface.IElement_Web import *
+from Library.Web_Page.web_control import WebControl
 
 class HomePage(IHomePage):
     def __init__(self, driver: WebControl):
@@ -63,7 +63,9 @@ class ProductIntroduce(IProductIntroduce):
     def __init__(self, driver: WebControl):
         super().__init__(driver)
     @property
-    def credit_card_btn(self): return self.driver.get_elements("//div[@class='cubre-o-menu__content']//div[@class='cubre-o-menuLinkList__btn']")[0]
+    def credit_card_btn(self): return self.driver.get_elements("//div[@class='cubre-o-menu__item is-L1open']//div[@class='cubre-o-menu__content']//div[@class='cubre-o-menuLinkList__btn']")[0]
+    @property
+    def credit_card_option_list(self): return self.driver.get_elements("//div[@class='cubre-o-menuLinkList__item is-L2open']//div[@class='cubre-o-menuLinkList__content']//a")
     @property
     def card_intro_btn(self): return self.driver.get_element("//div[@class='cubre-o-menuLinkList__content']//a[@href='/cathaybk/personal/product/credit-card/cards']")
     @property

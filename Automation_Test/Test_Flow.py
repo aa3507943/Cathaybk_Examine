@@ -1,10 +1,20 @@
-from Library.Web_Page.web_control import WebControl
-from Driver.create_driver import WebDriver
-import time
- 
-fileName = f'./Automation_Test/Pictures/{time.strftime("%Y%m%d-%H%M%S", time.localtime())}.png'
-webControl = WebControl(WebDriver().Create_Driver())
-webControl.set_window_size(600, 800)
-webControl.enter_target_page("https://www.cathaybk.com.tw/cathaybk/")
-webControl.screen_shot(filePath = fileName)
-time.sleep(20)
+from Flow.Instance.Flow_Web import Flow
+from Unit.Instance.Unit_Web import Unit
+from System.Web_Chrome import Chrome
+from Element.Instance.Element_Web import Element
+
+class AutoTest:
+    def __init__(self, enviroment: str):
+        match enviroment: #此處可以測試要跑的環境，因時間關係沒有把Mobile App的操作寫入
+            case "Chrome": 
+                self.source = Chrome()
+                self.Run_Chrome_Cases()
+                
+    def Run_Android_App_Cases(self):
+        pass
+    def Run_Chrome_Cases(self): 
+        flow = Flow(Unit(self.source.web_control, Element(self.source.web_control)))
+        flow.Case1
+        flow.Case2
+        flow.Case3
+

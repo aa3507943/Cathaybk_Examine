@@ -1,13 +1,17 @@
 from abc import ABC, abstractmethod, abstractproperty
-from Automation_Test.Library.Web_Page.web_control import WebControl
-from Automation_Test.Element.Interface.IElement_Web import *
+from Library.Web_Page.web_control import WebControl
+from Element.Interface.IElement_Web import *
 
 class IUnitHomePage(ABC):
     def __init__(self, driver: WebControl, element: IHomePage):
         self.driver = driver
         self.element = element
     @abstractmethod
-    def Screen_Shot(self, filePath: str):
+    def Goto_Cathaybk_Page(self):
+        "進到國泰世華銀行首頁"
+
+    @abstractmethod
+    def Screen_Shot_Home_Page(self, filePath: str):
         "針對畫面做截圖，並存入指定位址"
         
     @abstractmethod
@@ -57,7 +61,15 @@ class IUnitProductIntroduce(ABC):
     @abstractmethod
     def Click_Credit_Card(self):
         "點擊信用卡選項"
-        
+    
+    @abstractmethod
+    def Get_Credit_Card_Option_Amounts(self):
+        "獲取信用卡選項數量"
+    
+    @abstractmethod
+    def Screen_Shot_Credit_Card_Option_List(self):
+        "截圖信用卡選項列表"
+
     @abstractmethod
     def Click_Card_Introduce(self):
         "點擊卡片介紹選項"
@@ -77,8 +89,14 @@ class IUnitCardIntroduce(ABC):
         self.driver = driver
         self.element = element
     @abstractmethod
+    def Scroll_To_Target_Area(self):
+        "滾動至目標元素區域"
+    @abstractmethod
     def Screen_Shot_Card_Block(self, filePath):
         "截圖卡片區域"
+    @abstractmethod
+    def Change_Display_Card(self):
+        "更換展示的卡片"
     @abstractmethod
     def Get_Stop_Issue_Card_Amounts(self):
         "獲取停用卡片數量"
@@ -94,3 +112,6 @@ class IUnit(ABC):
     def unit_product_introduce(self)-> IUnitProductIntroduce: pass
     @abstractproperty
     def unit_card_introduce(self)-> IUnitCardIntroduce: pass
+
+    def __init__(self, driver: WebControl): 
+        self.driver = driver
