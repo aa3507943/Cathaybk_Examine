@@ -1,0 +1,25 @@
+類別屬性命名
+Ex.	
+	@property
+	def automation_test(self):
+
+類別方法命名
+Ex. 
+	def Execute_Case1(self):
+
+類別命名
+Ex.
+	class CathaybkAutoTest:
+
+普通變數 / 區域變數命名
+Ex.
+	variable_one = 0
+
+全域變數命名
+Ex. 
+	PI = 3.14159
+
+普通函式命名
+Ex.	
+	def automation_test_driver(self):
+
